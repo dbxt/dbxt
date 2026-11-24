@@ -1,8 +1,8 @@
 # David Wayne Baxter (Bax)
 
-Engineering leader with 20+ years in software. I build reliable platforms, teams that grow, and AI-enabled delivery systems.
+Senior Engineering Manager: platform reliability, observability, AI agents. Building TechDrift. 
 
-Open to Senior Engineering Manager and Director of Engineering roles.
+Open to Senior EM / Director roles.
 
 ## Selected work
 
