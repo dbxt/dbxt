@@ -1,6 +1,6 @@
 # David Wayne Baxter (Bax)
 
-Senior Engineering Manager: platform reliability, observability, AI agents. Building TechDrift. 
+Senior Engineering Manager: platform reliability, observability, AI agents. Building [TechDrift](https://techdrift.app/).
 
 Open to Senior EM / Director roles.
 
@@ -12,4 +12,4 @@ Open to Senior EM / Director roles.
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/davidwbaxter/) · [davidwaynebaxter.com](https://davidwaynebaxter.com/)
+[davidwaynebaxter.com](https://davidwaynebaxter.com/) · [LinkedIn](https://www.linkedin.com/in/davidwbaxter/) · [Dev.to](https://dev.to/davidwaynebax) · [Bluesky](https://bsky.app/profile/davidwaynebaxter.com) · [TechDrift](https://techdrift.app/)
