@@ -1,4 +1,4 @@
-# David Wayne Baxter
+# David Wayne Baxter (Bax)
 
 Engineering leader with 20+ years in software. I build reliable platforms, teams that grow, and AI-enabled delivery systems.
 
