@@ -2,8 +2,6 @@
 
 Senior Engineering Manager: platform reliability, observability, AI agents. Building [TechDrift](https://techdrift.app/).
 
-Open to Senior EM / Director roles.
-
 ## Building
 
 - [TechDrift](https://techdrift.app/) - Tracks what is gaining traction in tech. A topic is promoted only when it holds up across independent sources over time, and every claim links to its evidence.
